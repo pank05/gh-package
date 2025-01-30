@@ -1,0 +1,15 @@
+{
+  "name": "@pank05/gh-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@pank05"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
